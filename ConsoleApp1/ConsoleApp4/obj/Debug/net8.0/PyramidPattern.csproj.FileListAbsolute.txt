@@ -1,0 +1,14 @@
+/Users/deepanalla/RiderProjects/ConsoleApp1/PyramidPattern/bin/Debug/net8.0/PyramidPattern
+/Users/deepanalla/RiderProjects/ConsoleApp1/PyramidPattern/bin/Debug/net8.0/PyramidPattern.deps.json
+/Users/deepanalla/RiderProjects/ConsoleApp1/PyramidPattern/bin/Debug/net8.0/PyramidPattern.runtimeconfig.json
+/Users/deepanalla/RiderProjects/ConsoleApp1/PyramidPattern/bin/Debug/net8.0/PyramidPattern.dll
+/Users/deepanalla/RiderProjects/ConsoleApp1/PyramidPattern/bin/Debug/net8.0/PyramidPattern.pdb
+/Users/deepanalla/RiderProjects/ConsoleApp1/PyramidPattern/obj/Debug/net8.0/PyramidPattern.GeneratedMSBuildEditorConfig.editorconfig
+/Users/deepanalla/RiderProjects/ConsoleApp1/PyramidPattern/obj/Debug/net8.0/PyramidPattern.AssemblyInfoInputs.cache
+/Users/deepanalla/RiderProjects/ConsoleApp1/PyramidPattern/obj/Debug/net8.0/PyramidPattern.AssemblyInfo.cs
+/Users/deepanalla/RiderProjects/ConsoleApp1/PyramidPattern/obj/Debug/net8.0/PyramidPattern.csproj.CoreCompileInputs.cache
+/Users/deepanalla/RiderProjects/ConsoleApp1/PyramidPattern/obj/Debug/net8.0/PyramidPattern.dll
+/Users/deepanalla/RiderProjects/ConsoleApp1/PyramidPattern/obj/Debug/net8.0/refint/PyramidPattern.dll
+/Users/deepanalla/RiderProjects/ConsoleApp1/PyramidPattern/obj/Debug/net8.0/PyramidPattern.pdb
+/Users/deepanalla/RiderProjects/ConsoleApp1/PyramidPattern/obj/Debug/net8.0/PyramidPattern.genruntimeconfig.cache
+/Users/deepanalla/RiderProjects/ConsoleApp1/PyramidPattern/obj/Debug/net8.0/ref/PyramidPattern.dll

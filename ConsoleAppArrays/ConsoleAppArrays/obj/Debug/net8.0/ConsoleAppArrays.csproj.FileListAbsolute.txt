@@ -1,0 +1,14 @@
+/Users/deepanalla/RiderProjects/ConsoleAppArrays/ConsoleAppArrays/bin/Debug/net8.0/ConsoleAppArrays
+/Users/deepanalla/RiderProjects/ConsoleAppArrays/ConsoleAppArrays/bin/Debug/net8.0/ConsoleAppArrays.deps.json
+/Users/deepanalla/RiderProjects/ConsoleAppArrays/ConsoleAppArrays/bin/Debug/net8.0/ConsoleAppArrays.runtimeconfig.json
+/Users/deepanalla/RiderProjects/ConsoleAppArrays/ConsoleAppArrays/bin/Debug/net8.0/ConsoleAppArrays.dll
+/Users/deepanalla/RiderProjects/ConsoleAppArrays/ConsoleAppArrays/bin/Debug/net8.0/ConsoleAppArrays.pdb
+/Users/deepanalla/RiderProjects/ConsoleAppArrays/ConsoleAppArrays/obj/Debug/net8.0/ConsoleAppArrays.GeneratedMSBuildEditorConfig.editorconfig
+/Users/deepanalla/RiderProjects/ConsoleAppArrays/ConsoleAppArrays/obj/Debug/net8.0/ConsoleAppArrays.AssemblyInfoInputs.cache
+/Users/deepanalla/RiderProjects/ConsoleAppArrays/ConsoleAppArrays/obj/Debug/net8.0/ConsoleAppArrays.AssemblyInfo.cs
+/Users/deepanalla/RiderProjects/ConsoleAppArrays/ConsoleAppArrays/obj/Debug/net8.0/ConsoleAppArrays.csproj.CoreCompileInputs.cache
+/Users/deepanalla/RiderProjects/ConsoleAppArrays/ConsoleAppArrays/obj/Debug/net8.0/ConsoleAppArrays.dll
+/Users/deepanalla/RiderProjects/ConsoleAppArrays/ConsoleAppArrays/obj/Debug/net8.0/refint/ConsoleAppArrays.dll
+/Users/deepanalla/RiderProjects/ConsoleAppArrays/ConsoleAppArrays/obj/Debug/net8.0/ConsoleAppArrays.pdb
+/Users/deepanalla/RiderProjects/ConsoleAppArrays/ConsoleAppArrays/obj/Debug/net8.0/ConsoleAppArrays.genruntimeconfig.cache
+/Users/deepanalla/RiderProjects/ConsoleAppArrays/ConsoleAppArrays/obj/Debug/net8.0/ref/ConsoleAppArrays.dll
